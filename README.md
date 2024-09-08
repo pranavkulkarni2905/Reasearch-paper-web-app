@@ -24,7 +24,7 @@ Before you begin, ensure you have the following installed on your system:
 1. Clone the repository:
 
    ```bash
-   git clone 
+   git clone https://github.com/pranavkulkarni2905/Reasearch-paper-web-app.git
    cd research-paper-search
    ```
 
